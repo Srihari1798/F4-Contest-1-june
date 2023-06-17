@@ -1,0 +1,26 @@
+input {
+    border: none;
+    border-bottom: 1px solid white;
+    outline: none; 
+    background-color: black;
+    color: white;
+    width: 60%;
+    height: 40px;
+  }
+  .header{
+    margin-right:650px;
+  }
+  .btn1{
+    margin-right:650px;
+    width: 120px;
+    margin-top: 30px;
+}
+.error{
+  color: Red;
+}
+.success{
+  color: green;
+}
+ul{
+  list-style: none;
+}
